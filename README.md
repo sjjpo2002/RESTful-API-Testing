@@ -1,2 +1,2 @@
 # RESTful-API-Testing
-A simple framework to test REST APIs in Python
+There are many packages out there to test a Soap or REST API. However, having the total flexibility of Python is very advantages if you are doing something different. Here is a simple framework to develop test plans and test steps for REST APIs. We use Requests package to send and receive commands to the server. This is a just a simple framework that shows how you would develop your tests and how to log and report the results. 
