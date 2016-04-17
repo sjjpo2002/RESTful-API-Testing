@@ -166,7 +166,7 @@ class TestStatus(object):
 
 
 if __name__ == '__main__':
-    mytestplan = TestPlan('Simple Test for Autodesk')
+    mytestplan = TestPlan('Simple Test Plan')
     if mytestplan.excecute() == TestStatus.PASS:
         logging.info("All the tests passed")
     else:
